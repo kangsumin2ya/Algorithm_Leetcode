@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0498-diagonal-traverse](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0498-diagonal-traverse) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
@@ -61,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
