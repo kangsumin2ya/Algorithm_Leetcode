@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0498-diagonal-traverse](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
