@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0002-add-two-numbers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
