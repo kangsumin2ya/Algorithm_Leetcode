@@ -96,4 +96,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0338-counting-bits) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
