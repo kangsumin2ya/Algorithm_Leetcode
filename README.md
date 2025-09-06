@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0113-path-sum-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0113-path-sum-ii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -110,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0969-number-of-recent-calls) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
