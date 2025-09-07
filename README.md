@@ -10,15 +10,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0113-path-sum-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0113-path-sum-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Linked List
@@ -116,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kangsumin2ya/Algorithm_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
